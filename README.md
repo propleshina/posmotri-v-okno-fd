@@ -1,1 +1,1 @@
-https://github.com/propleshina/posmotri-v-okno-fd.git
+https://github.com/propleshina/posmotri-v-okno-fd
